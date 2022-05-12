@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transforma2.xsl"?>
+<futbolistas>
+   	<realmadrid>
+         	<jugador>
+                	<nombre>Cristiano Ronaldo</nombre>
+                	<comentario>El delantero goleador</comentario>
+         	</jugador>
+         	<jugador>
+                	<nombre>Sergio Ramos</nombre>
+                	<comentario>El central favorito</comentario>
+         	</jugador>
+         	<jugador>
+                	<nombre>Iker Casillas</nombre>
+                	<comentario>El mejor portero</comentario>
+         	</jugador>
+         	<jugador>
+                	<nombre>Xavi Alonso</nombre>
+                	<comentario>El mejor mediocentro</comentario>
+         	</jugador>
+   	</realmadrid>
+   	<barsa>
+         	<jugador>
+                	<nombre>Leo Messi</nombre>
+                	<comentario>El goleador</comentario>
+         	</jugador>
+         	<jugador>
+                	<nombre>Andrés Iniesta</nombre>
+                	<comentario>Hizo a España campeona del Mundo</comentario>
+         	</jugador>
+         	<jugador>
+                	<nombre>Sergio Busquets</nombre>
+                	<comentario>El centrocampista de Sabadell</comentario>
+         	</jugador>
+         	<jugador>
+                	<nombre>Victor Valdés</nombre>
+                	<comentario>El porterazo</comentario>
+         	</jugador>
+   	</barsa>
+</futbolistas>

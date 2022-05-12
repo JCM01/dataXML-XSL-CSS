@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estiloXSL.xsl"?>
+<inversionistas>
+   	<empresas>
+         	<compañia>
+                	<nombre>Vestibulum Neque Sed Institute</nombre>
+                	<telefono>1-866-565-8847</telefono>
+                	<pais>Myanmar</pais>
+                	<numeroOrganizacion>087444 0134</numeroOrganizacion>
+
+         	</compañia>
+         	<compañia>
+         		<nombre>Penatibus Institute</nombre>
+                <telefono>989-9967</telefono>
+		<pais>Trinidad and Tobago</pais>
+		<numeroOrganizacion>543504 5272</numeroOrganizacion>	
+                	
+         	</compañia>
+         	<compañia>
+                	<nombre>Nec Mauris Blandit PC</nombre>
+		<telefono>130-0807</telefono>
+		<pais>Palestine, State of</pais>
+		<numeroOrganizacion>646527 3230</numeroOrganizacion>
+         	</compañia>
+         	<compañia>
+                	<nombre>Mollis Dui In Company</nombre>
+		<telefono>371-7510</telefono>
+		<pais>Iran</pais>
+		<numeroOrganizacion>047421 7643</numeroOrganizacion>
+         	</compañia>
+   	</empresas>
+   	<personas>
+         	<empresario>
+                	<nombre>Bill Gates</nombre>
+                	<inversion>100 billones de euros</inversion>
+         	</empresario>
+         	<empresario>
+                	<nombre>Gwyneth Paltrow</nombre>
+                	<inversion>20 billones de euros</inversion>
+         	</empresario>
+         	<empresario>
+                	<nombre>Paris Hilton</nombre>
+                	<inversion>6 billones de euros</inversion>
+         	</empresario>
+         	<empresario>
+                	<nombre>Snoop Dog</nombre>
+                	<inversion>1 billon de euros</inversion>
+         	</empresario>
+   	</personas>
+</inversionistas>

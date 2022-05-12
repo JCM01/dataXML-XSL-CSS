@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilo.css" ?>
+
+<dinosaurios>
+	<carnivoro tipo="Depredador">
+		<nombre>Tyrannosaurus rex</nombre>
+		<info>Tyrannosaurus rex es una de las especies de dinosaurio más célebres, y también una de las más conocidas gracias a ciertos especímenes, algunos de los cuales han adquirido un grado elevado de notabilidad dada su importancia científica y su divulgación por los medios de comunicación. </info>
+		<vida>30 años</vida>
+		<pais>Canada</pais>
+	</carnivoro>
+	<carnivoro tipo="Depredador">
+		<nombre>Velociraptor</nombre>
+		<info>Fue un carnívoro bípedo, con una cola larga y rígida, y unas garras grandes con forma de hoz en cada pata, que probablemente le facilitaba el matar a sus presas. A diferencia de otros dromeosáuridos, el velociráptor poseía un cráneo bajo y alargado, y un hocico chato, dirigido hacia arriba.</info>
+		<vida>20 años</vida>
+		<pais>China</pais>
+	</carnivoro>
+	<carnivoro tipo="Depredador">
+		<nombre>Allosaurus</nombre>
+		<info>Allosaurus (gr. "lagarto extraño") es un género extinto con cuatro especies válidas y varias otras posibles de dinosaurios terópodos alosáuridos, que vivieron a finales del período Jurásico, hace aproximadamente 161,2 y 145 millones de años, entre el Oxfordiense y el Titoniense, en lo que hoy es Norteamérica y Europa.</info>
+		<vida>30 años</vida>
+		<pais>EEUU</pais>
+	</carnivoro>
+	<carnivoro tipo="Depredador">
+		<nombre>Compsognathus</nombre>
+		<info>Compsognathus longipes ("con mandíbula elegante y pies largos") es la única especie conocida del género extinto Compsognathus de dinosaurio terópodo compsognátido, que vivió a finales del período Jurásico, hace aproximadamente 150 millones de años, en el Titoniense, en lo que hoy es Europa.</info>
+		<vida>15 años</vida>
+		<pais>Alemania</pais>
+	</carnivoro>
+</dinosaurios>

@@ -1,0 +1,19 @@
+body {
+	background-color: #FFE4C4;
+	font-family: "Verdana";
+	font-size: 20px;
+}
+ 
+h1 {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	color: #A52A2A;
+}
+ 
+th {
+	color: #DC143C;
+}
+
+ tr:hover td{
+  background-color: gray;
+}

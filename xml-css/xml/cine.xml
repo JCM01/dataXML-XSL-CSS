@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="salida.xsl"?>
+<AAA>
+	<XXX>
+		<DDD>
+			<BBB>PEPI</BBB>
+			<BBB>LUCI</BBB>
+			<EEE>BOM</EEE>
+			<FFF>Y</FFF>
+		</DDD>
+	</XXX>
+	<CCC>
+		<DDD>
+			<BBB>OTRAS</BBB>
+			<BBB>CHICAS</BBB>
+			<EEE>DEL</EEE>
+			<FFF>MONTON</FFF>
+		</DDD>
+	</CCC>
+	<CCC>
+		<BBB>
+			<BBB>
+				<BBB> - PEDRO ALMODOVAR</BBB>
+			</BBB>
+		</BBB>
+	</CCC>
+	<PPP TIPO="DRAMA">PELICULA 1</PPP>
+	<PPP TIPO="DRAMA">PELICULA 2</PPP>
+	<PPP TIPO="DRAMA">PELICULA 3</PPP>
+	<PPP TIPO="DRAMA">PELICULA 4</PPP>
+	<PPP TIPO="COMEDIA">PELICULA 5</PPP>
+	<PPP TIPO="COMEDIA">PELICULA 6</PPP>
+	<PPP TIPO="COMEDIA ROMANTICA">PELICULA 7</PPP>
+	<PPP>PELICULA 8</PPP>
+</AAA>

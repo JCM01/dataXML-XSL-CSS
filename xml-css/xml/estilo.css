@@ -1,0 +1,30 @@
+jugador {
+  	font-family: "Comic Sans MS";
+  	text-align: center;
+}
+  
+nombre {
+  	display: block;
+  	font-size: 40px;
+  	font-weight: bold;
+  	background-color: blue;
+  	color: white;
+}
+ 
+comentario {
+  	display: block;
+  	font-size: 35px;
+  	font-weight: bold;
+}
+  
+edad {
+  	display: block;
+  	font-size: 20px;
+}
+ 
+pais {
+	display: block;
+  	font-style: italic;
+  	color: orange;
+  	font-size: 30px;
+ }

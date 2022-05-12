@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="transforma.xsl"?>
+
+<futbolistas>
+	<jugador equipo="Real Madrid">
+		<nombre>Cristiano Ronaldo</nombre>
+		<comentario>El delantero goleador</comentario>
+		<edad>27 años</edad>
+		<pais>Portugal</pais>
+	</jugador>
+	<jugador equipo="Real Madrid">
+		<nombre>Sergio Ramos</nombre>
+		<comentario>El central favorito</comentario>
+		<edad>28 años</edad>
+		<pais>España</pais>
+	</jugador>
+	<jugador equipo="Real Madrid">
+		<nombre>Iker Casillas</nombre>
+		<comentario>El mejor portero</comentario>
+		<edad>33 años</edad>
+		<pais>España</pais>
+	</jugador>
+	<jugador equipo="Real Madrid">
+		<nombre>Xavi Alonso</nombre>
+		<comentario>El mejor mediocentro</comentario>
+		<edad>32 años</edad>
+		<pais>Portugal</pais>
+	</jugador>
+</futbolistas>
